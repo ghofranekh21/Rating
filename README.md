@@ -1,2 +1,0 @@
-# Rating
-Created with CodeSandbox
